@@ -1,0 +1,23 @@
+{
+	"description" : "1. Depending on the resolution of the display, the position of the clock may change. Look for the corresponding folder in C: \\ Program Files (x86) \\ Steam \\ steamapps \\ workshop \\ content.\nOpen index.html with something like Notepad ++. <Div style = \"position: absolute; left: 440px; top: 340px;\" class = \"time\" id = \"time\" data - hours = \"\" Change the resolution of the data - minutes = \"\">.\n\n2. Explain how to change the color of the clock.\nLook for the corresponding folder in C: \\ Program Files (x86) \\ Steam \\ steamapps \\ workshop \\ content.\nOpen style.css in the CSS folder with something like Notepad ++.\nHttps://html-color.codes/\nSearch for the color you like, search for 0BFDFD and replace with Ctrl + h\n\n3. You can make sure that the direction of the clock does not change with the mouse, and it is also possible not to display the clock only.\n\n3 will answer only when asked.\n\nSupplement: Please comment if you can not understand. I'm sorry if I made a mistranslation",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Anime" ],
+	"title" : "Re:Zero kara Hajimeru Isekai Seikatsu",
+	"type" : "web",
+	"visibility" : "public",
+	"workshopid" : 895116177
+}
